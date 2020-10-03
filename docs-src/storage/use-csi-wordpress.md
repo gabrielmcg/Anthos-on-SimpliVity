@@ -534,7 +534,7 @@ Create a new blog post by clicking "Write your first blog post":
 
 !["WordPress finished new post"][wordpress-new-post-done-png]
 
-**Figure ?.** WordPress finished new post
+**Figure.** WordPress finished new post
 
 
 Click the `Publish` button to make the blog post public and then view the post:
