@@ -541,7 +541,7 @@ Click the `Publish` button to make the blog post public and then view the post:
 
 !["WordPress published post"][wordpress-publish-png]
 
-**Figure ?.** WordPress published post
+**Figure.** WordPress published post
 
 
 ## Exploring WordPress content
